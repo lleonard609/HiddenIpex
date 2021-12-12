@@ -4,7 +4,7 @@
 
 - 🍀 I'm from Ireland.
 - 💻 My favourite programming languages are Javascript & Typescript.
-- 📞 The best way to contact me is through Discord, @HiddenIpex#0326
+- 📞 The best way to contact me is through Discord, @HiddenIpex#6563
 
 ## My Github Stats 📊
 
